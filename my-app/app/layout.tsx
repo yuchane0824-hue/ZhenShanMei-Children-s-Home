@@ -1,7 +1,7 @@
 import './globals.css'
 import type { Metadata } from "next";
-import MenuPC from "../component/menuPC"
-import MenuPh from "../component/menuPh"
+import MenuPC from "../component/menuDesktop"
+import MenuPh from "../component/menuMobile"
 import Footer from "../component/footer"
 import { Noto_Serif_TC } from 'next/font/google';
 import { Geist, Geist_Mono } from "next/font/google";

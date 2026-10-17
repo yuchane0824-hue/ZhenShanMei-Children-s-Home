@@ -1,6 +1,6 @@
 import Image from "next/image";
-import MenuPC from "../component/menuPC"
-import MenuPh from "../component/menuPh"
+import MenuPC from "../component/menuDesktop"
+import MenuPh from "../component/menuMobile"
 
 export default function Home() {
 

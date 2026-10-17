@@ -1,0 +1,10 @@
+"use client"
+import Image from "next/image";
+
+export default function AboutUs() {
+    return (
+        <div>
+            <h1>AboutUs</h1>
+        </div>
+    )
+}
